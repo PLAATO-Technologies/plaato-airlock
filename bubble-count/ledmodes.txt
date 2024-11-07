@@ -1,0 +1,22 @@
+1 	COUNTING 1		used for COUNTING
+2	COUNTING 2		removed
+3	SLOWBREATHING	removed
+4	FASTBREATHING	used for AP
+5	SLOWFLASH		removed
+6	FASTFLASH		used for CONNECTING
+7	ALLOFF			used for RST switch activated
+8	ALLON			used for RST FLAG SET
+9	BOT 			useed for ERROR
+10	MID 			removed
+11	TOP 			removed
+12	SLOWDOWN		not implemented
+13	FASTDOWN 		used for FIRMWARE
+14	SLOWUP			not implemented
+15	FASTUP			not implemented
+16	BOTSLOWFLASH	not implemented
+17	BOTFASTFLASH	not implemented
+18	MIDSLOWFLASH	not implemented
+19	MIDFASTFLASH	used for backup AP
+20	TOPSLOWFLASH	not implemented
+21	TOPFASTFLASH	not implemented
+22	BOTONBUBBLE	used for reed-switch
